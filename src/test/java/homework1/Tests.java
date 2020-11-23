@@ -2,8 +2,6 @@ package homework1;
 
 import org.junit.Test;
 
-import org.junit.runners.JUnit4;
-
 import static org.junit.Assert.*;
 
 public class Tests {
